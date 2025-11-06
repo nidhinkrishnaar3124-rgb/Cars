@@ -9,3 +9,15 @@ year : 2003
 Fuel : Petrol
 
 Colour = Blue
+
+2.
+
+Car name = Baleno
+
+Model = Maruthi Suzuki
+
+year = 2025
+
+Fuel : Petrol
+
+Color = Red
